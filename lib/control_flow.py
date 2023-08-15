@@ -5,7 +5,7 @@ def admin_login(username, password):
     return "Access granted"
   else:
     return "Access denied"
-
+admin_login("admin", "12345")
 
 
 
